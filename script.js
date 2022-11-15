@@ -11,6 +11,7 @@ closeButton.addEventListener('click', () => {
 })
 
 
+
 //Scroll Reaveal
 window.sr = ScrollReveal();
 sr.reveal(".logo", {
@@ -20,6 +21,12 @@ sr.reveal(".logo", {
 });
 
 sr.reveal("nav li", {
+  duration: 2000,
+  origin: "top",
+  distance: "100px",
+});
+
+sr.reveal(".open-btn", {
   duration: 2000,
   origin: "top",
   distance: "100px",

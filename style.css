@@ -248,7 +248,7 @@ color: var(--Yellow);
    left: 0;
    bottom: -2px;
    height: 10px;
-   width: 135px;
+   width: 139px;
    z-index: -1;
    background-color: var(--Soft-red);
 }
@@ -274,7 +274,7 @@ color: var(--Yellow);
    left: 0;
    bottom: -2px;
    height: 10px;
-   width: 135px;
+   width: 139px;
    z-index: -1;
    background-color: var(--Yellow);
 }
@@ -324,7 +324,7 @@ color: var(--Yellow);
 
 .showcase-photography p,
 .showcase-graphics p{
-    font-size: 2.3rem;
+    font-size: 2.7rem;
     font-weight: 900;
     margin-top: 2rem;
     font-family:inherit;
@@ -429,8 +429,8 @@ section#footer{
 .footer-ul a{
     display: inline-block;
     margin-left: 10px;
-    font-size: 1.7rem;
-    font-weight: 700;
+    font-size: 2.3rem;
+    font-weight: 900;
     font-family: inherit;
     color: var(--dark-desaturated-blue);
     margin-bottom: 6rem;
