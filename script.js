@@ -26,6 +26,7 @@ sr.reveal("nav li", {
   distance: "100px",
 });
 
+
 sr.reveal(".open-btn", {
   duration: 2000,
   origin: "top",
